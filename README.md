@@ -12,4 +12,4 @@ Tech Stack
 Flutter & Dart
 News API integration (e.g., NewsAPI or custom sources)
 State management using Provider or Bloc
-Local storage using SQLite or Hive
+Local storage using SQLite 
